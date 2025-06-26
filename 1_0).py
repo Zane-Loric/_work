@@ -6,3 +6,4 @@ def Seq(User_Input):
         print(" ")           
 User_Input = int(input("Enter a number: "))
 Seq(User_Input)
+#Zane Loric 
